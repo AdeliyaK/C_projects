@@ -28,7 +28,7 @@ Sort the array by:
 Use the `qsort()` function for sorting.
 
 #### Output
-Display the sorted data in a suitable format.
+Display the sorted data in a suitable format.  
 
 
 ## Labirint1.c
